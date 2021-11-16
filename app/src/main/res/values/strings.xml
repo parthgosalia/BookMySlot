@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Book Slot</string>
+    <string name="app_name1">Book My Slot</string>
+    <string name="steps">Step 1: Enter Pin Code\n\n
+Step 2: Tap on Start Search\n\n
+
+Step 3: Put your app in background\n(Remember do not kill the app.)</string>
+    <string name="Gov">Now your phone keep checking on GOVERNMENT system on every minute for any available slot for Covid vaccine for your pin code.
+You will get notification only for centre where minimum age limit is 18.</string>
+
+    <string name="notification_title">Book My Slot</string>
+</resources>
